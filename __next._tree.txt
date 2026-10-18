@@ -1,0 +1,5 @@
+:HL["/_next/static/chunks/3sl-knkzcgqbr.css","style"]
+:HC["/",""]
+:HL["/media/chris-monochrome.webp","image",{"fetchPriority":"high"}]
+1:[["children",{"s":"__PAGE__","h":128}]]
+0:{"b":"B1YFvn5OmhkeGIJezDJA_","t":{"t":{"s":"","h":16,"c":"$Q1"}}}

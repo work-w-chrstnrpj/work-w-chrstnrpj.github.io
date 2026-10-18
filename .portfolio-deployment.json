@@ -1,0 +1,344 @@
+{
+  "sourceRepository": "https://github.com/work-w-chrstnrpj/ProfessionalPorfolio-Crimson",
+  "sourceRevision": null,
+  "sourceState": "Uncommitted local workspace; source repository still empty. Content fingerprint provided for this manual publication.",
+  "sourceContentSHA256": "f380c6b56efd41e9f5599e3a42ec82803716af32893f0cd2c39f4dd4d7abea77",
+  "generatedFiles": [
+    {
+      "path": "404/index.html",
+      "sha256": "3943a37543194b1c29fb46c9fbd06ee10c3b55f8ed9a21b435d3573713d25190"
+    },
+    {
+      "path": "404.html",
+      "sha256": "3943a37543194b1c29fb46c9fbd06ee10c3b55f8ed9a21b435d3573713d25190"
+    },
+    {
+      "path": "__next.__PAGE__.txt",
+      "sha256": "54f3c6f3d6b99db7400d732a5bf2113ca731d1cccaf8c825bd362562d781c598"
+    },
+    {
+      "path": "__next._full.txt",
+      "sha256": "c65dca3ada2f44f62fa370071be8f58b3d9e1a4075e5cf6c569b81ecc2bf2a7c"
+    },
+    {
+      "path": "__next._index.txt",
+      "sha256": "63c51f826aa0fd42322f61e1becd11d13027f3b909ec650fe6296e0cd162cad1"
+    },
+    {
+      "path": "__next._tree.txt",
+      "sha256": "102be70cba7ce00879e9fff411875008571a2fee78fca1087f146a960a407d0a"
+    },
+    {
+      "path": "_next/static/B1YFvn5OmhkeGIJezDJA_/_buildManifest.js",
+      "sha256": "9476e0afd3f9da68a64e6ec58631191fd3eaca62c9f5a377e7517fe9a89e59ea"
+    },
+    {
+      "path": "_next/static/B1YFvn5OmhkeGIJezDJA_/_clientMiddlewareManifest.js",
+      "sha256": "5483e3295dc35dfe29ea932efc85341c916f10ff78ff5b0e965e003710893a4a"
+    },
+    {
+      "path": "_next/static/B1YFvn5OmhkeGIJezDJA_/_ssgManifest.js",
+      "sha256": "ed7e74764cedd26250ed625206d333bf6a2bc6d906387f715a561ec833d49359"
+    },
+    {
+      "path": "_next/static/chunks/03yw2n7qeu4gb.js",
+      "sha256": "dd9c41d4da68165d4daf89ec55d736e061b2fe807e47905d2a0173b7a56e67c1"
+    },
+    {
+      "path": "_next/static/chunks/04us-7k6gb4d5.js",
+      "sha256": "24e1e0954db9606ba3e20608219be3aed7926d6b195f394d8a07532fbcedafee"
+    },
+    {
+      "path": "_next/static/chunks/0cz1d0mv5g_q7.js",
+      "sha256": "0973c1d64c88adc8e3c950410cb58b288f72118d5965b78049438deb8f2f9683"
+    },
+    {
+      "path": "_next/static/chunks/0umf92h1sb77c.js",
+      "sha256": "c410d0f2543e080768fc14f73b2bd1fdf103e26956e9730390b5e41c4fb5ff8b"
+    },
+    {
+      "path": "_next/static/chunks/19wg2q9r2_sev.js",
+      "sha256": "303ede97611efb988007954b1a9d59044dec4e6f40ebd88a5dbf080a8bc7feba"
+    },
+    {
+      "path": "_next/static/chunks/1c0mhc5ebbn3y.js",
+      "sha256": "7800c9ae27b26e0bb5a0e74867d9caecb43763e0abbe236378335a0f019b9151"
+    },
+    {
+      "path": "_next/static/chunks/2khxl0v1q4i6n.js",
+      "sha256": "885fd68a19ca1dc00018cae690b07cd463371a463f04f8b34b5590a3fec18a33"
+    },
+    {
+      "path": "_next/static/chunks/3sl-knkzcgqbr.css",
+      "sha256": "9fee56d07f801bbf73f317aced21c803064a010ff030b0b2ae2798f476fa66d2"
+    },
+    {
+      "path": "_next/static/chunks/3tb-qu6h2rsdu.js",
+      "sha256": "11f8561b95581ab549ea6d567b14538c621bddd7b05d1f8d0b8932366578e01f"
+    },
+    {
+      "path": "_next/static/chunks/turbopack-3-ry682tkyiqk.js",
+      "sha256": "8bbb58cbfd4633c1d828c6bc37bc32abc768a149c01b1dfc4f5131fd81274551"
+    },
+    {
+      "path": "_next/static/media/manrope-cyrillic-ext-wght-normal.1dtltwig2y3wh.woff2",
+      "sha256": "de37de877dc17e4577341fa68bb5cb526b53d54cb29721e674208546a3c7849d"
+    },
+    {
+      "path": "_next/static/media/manrope-cyrillic-wght-normal.1hmx3sz6swr8m.woff2",
+      "sha256": "c268b459a9329e59fecf39a17618efd44c71735532048d60b12aab76a8c14914"
+    },
+    {
+      "path": "_next/static/media/manrope-greek-wght-normal.37b2k1x9f-55d.woff2",
+      "sha256": "2fb2e8cbfd52ae46179a8b6024eb162f1f9c6de3d22d6e3a30d8f395de7220be"
+    },
+    {
+      "path": "_next/static/media/manrope-latin-ext-wght-normal.0-hru0xfwhnbp.woff2",
+      "sha256": "3911b66d9f2e005a4b989223405d0e5032619c668597ba467cc76a23c8fffcfb"
+    },
+    {
+      "path": "_next/static/media/manrope-latin-wght-normal.1p_a2k8qd5zhp.woff2",
+      "sha256": "a30ddcd349703aff7464c34bef3fffdff405ee50c113440d7c8693c02d210972"
+    },
+    {
+      "path": "_next/static/media/manrope-vietnamese-wght-normal.3xvzy9_grgcx4.woff2",
+      "sha256": "6bbb044ab420e07edb0a3042d2eb314b85e83a0182e945a15ab3b9092668dfd5"
+    },
+    {
+      "path": "_next/static/media/michroma-latin-400-normal.2_r_zosx1tjfc.woff2",
+      "sha256": "754fdb31c9906e82cf9c0ecb1d0b528073818fc2c418a39932c83a34cca027b6"
+    },
+    {
+      "path": "_next/static/media/michroma-latin-400-normal.3zz7nyyrvz73u.woff",
+      "sha256": "bd6218f6b39b65298b2eff876d99f15bbb0181c813f1fa9bb823bc095fc80c9c"
+    },
+    {
+      "path": "_not-found/__next._full.txt",
+      "sha256": "0227111ba507bac5a1eb44876dd794a5b34d9ace0602d1b60d1cc6e63859d569"
+    },
+    {
+      "path": "_not-found/__next._index.txt",
+      "sha256": "bf834239d7fc837cc733d9712a8cdae19a90eecf2f1c03dfbf7ecaa030fae34e"
+    },
+    {
+      "path": "_not-found/__next._not-found.__PAGE__.txt",
+      "sha256": "d53746da34a05c7d19bd5fdc88451ba6d60561c995e3ea984cb935b5bf25ed4f"
+    },
+    {
+      "path": "_not-found/__next._tree.txt",
+      "sha256": "b1866a6e30a73954ac6bc8b056c87b36662e633c1efd912fbc9c63765ff5fb31"
+    },
+    {
+      "path": "_not-found/index.html",
+      "sha256": "3943a37543194b1c29fb46c9fbd06ee10c3b55f8ed9a21b435d3573713d25190"
+    },
+    {
+      "path": "_not-found/index.txt",
+      "sha256": "0227111ba507bac5a1eb44876dd794a5b34d9ace0602d1b60d1cc6e63859d569"
+    },
+    {
+      "path": "index.html",
+      "sha256": "4af4cf30af45af0bfed21339ea6a5187559ecb6f78e645b962a3021d887e71e4"
+    },
+    {
+      "path": "index.txt",
+      "sha256": "c65dca3ada2f44f62fa370071be8f58b3d9e1a4075e5cf6c569b81ecc2bf2a7c"
+    },
+    {
+      "path": "licenses/Manrope-OFL.txt",
+      "sha256": "d826ab6583b12c26807d8716a545bdbbb672df04f48608a364ba9efdbe501c30"
+    },
+    {
+      "path": "licenses/Michroma-OFL.txt",
+      "sha256": "9d869414cd2df4c69abadbada93d27865c7b0df7d276bb2fe1abfd46288cb093"
+    },
+    {
+      "path": "media/chris-monochrome.webp",
+      "sha256": "889a8f26c20b4d36d6eb1b95f6c96efa7edc5f1e4a249186afd62ec90e08ffa6"
+    },
+    {
+      "path": "media/example-avatar.svg",
+      "sha256": "1230886be71ba2cbce153ddd9bf8612104e1769b03ef280c99f9c21fb9aa46ec"
+    },
+    {
+      "path": "privacy/__next._full.txt",
+      "sha256": "aa90a7f0be676bf9709b966605544cea8be4ba7711ee5ac93df8879e19b3138a"
+    },
+    {
+      "path": "privacy/__next._index.txt",
+      "sha256": "bf834239d7fc837cc733d9712a8cdae19a90eecf2f1c03dfbf7ecaa030fae34e"
+    },
+    {
+      "path": "privacy/__next._tree.txt",
+      "sha256": "d71aa26859da786fdeb8d4490c9cc85427961a70ee0074143ae60b7b56069fd2"
+    },
+    {
+      "path": "privacy/__next.privacy.__PAGE__.txt",
+      "sha256": "67ee26f3d939fe22094947d37ab08f8b81051bc60ca0ab84ceec992da7db218c"
+    },
+    {
+      "path": "privacy/index.html",
+      "sha256": "760f9fd7ffcaffe519c1358799149e077e070d0781b26608500da45e83cf1dae"
+    },
+    {
+      "path": "privacy/index.txt",
+      "sha256": "aa90a7f0be676bf9709b966605544cea8be4ba7711ee5ac93df8879e19b3138a"
+    },
+    {
+      "path": "projects/ai-project-template/__next._full.txt",
+      "sha256": "b10c951307eb369e239ebecb922668f8462e7468288ed1450428b8d1a4dc97b4"
+    },
+    {
+      "path": "projects/ai-project-template/__next._index.txt",
+      "sha256": "225a967e1eb7473e720bfc864f0482ceb70a506308c04e03dba4accd0969440a"
+    },
+    {
+      "path": "projects/ai-project-template/__next._tree.txt",
+      "sha256": "db2224d67fd6349f1931cae19d4effcf7a74a0199efe8f9620de0a5111c18e4b"
+    },
+    {
+      "path": "projects/ai-project-template/__next.projects.$d$slug.__PAGE__.txt",
+      "sha256": "02bb882991c7bc13233895917ad64c902bc00cce511622bd4684271d52a8b0cb"
+    },
+    {
+      "path": "projects/ai-project-template/index.html",
+      "sha256": "635a430b35bb4734dda2d4c5547ee6ad387e5eae964ba1e2c44f658b046bcefd"
+    },
+    {
+      "path": "projects/ai-project-template/index.txt",
+      "sha256": "b10c951307eb369e239ebecb922668f8462e7468288ed1450428b8d1a4dc97b4"
+    },
+    {
+      "path": "projects/edify/__next._full.txt",
+      "sha256": "785154d1fc1c8eda2a39db9a8eddfdf6b1048da173baa23a0cadce15856a91c9"
+    },
+    {
+      "path": "projects/edify/__next._index.txt",
+      "sha256": "225a967e1eb7473e720bfc864f0482ceb70a506308c04e03dba4accd0969440a"
+    },
+    {
+      "path": "projects/edify/__next._tree.txt",
+      "sha256": "2a94f47f64d006b99d1441b11dea91916e247b8ca40f96906aaef3dcfb5a889e"
+    },
+    {
+      "path": "projects/edify/__next.projects.$d$slug.__PAGE__.txt",
+      "sha256": "1a202f99f2906742066c84d8e2ace0a765154467316a194c5541e9cddd986092"
+    },
+    {
+      "path": "projects/edify/index.html",
+      "sha256": "8ceb63dacbbe468b061474fafeb163965063afe24b63ed636614d008155c66f5"
+    },
+    {
+      "path": "projects/edify/index.txt",
+      "sha256": "785154d1fc1c8eda2a39db9a8eddfdf6b1048da173baa23a0cadce15856a91c9"
+    },
+    {
+      "path": "projects/lumina-studio/__next._full.txt",
+      "sha256": "faef31af51f930d5f22b658f8713aeb5fa3b5ffad2d6275613f2aa8d5a533b64"
+    },
+    {
+      "path": "projects/lumina-studio/__next._index.txt",
+      "sha256": "225a967e1eb7473e720bfc864f0482ceb70a506308c04e03dba4accd0969440a"
+    },
+    {
+      "path": "projects/lumina-studio/__next._tree.txt",
+      "sha256": "f722fe0677b83b50b32ead83b60dcdd3b3b443b853e2cd54e5785f5a4afb3cb9"
+    },
+    {
+      "path": "projects/lumina-studio/__next.projects.$d$slug.__PAGE__.txt",
+      "sha256": "7d00a815a392100848d765b4812b50545085ff6c20e1fffaea77437363d562c1"
+    },
+    {
+      "path": "projects/lumina-studio/index.html",
+      "sha256": "e36f13bd7c2c18359faca62e2f2ebb9f9168117a2ee602ed0445fbf00d33ac3f"
+    },
+    {
+      "path": "projects/lumina-studio/index.txt",
+      "sha256": "faef31af51f930d5f22b658f8713aeb5fa3b5ffad2d6275613f2aa8d5a533b64"
+    },
+    {
+      "path": "projects/notable-finance/__next._full.txt",
+      "sha256": "08bc6e1c5d2f1cc0d7e3e324dd78031ce775fea3b1f96e8cb97309dd0de6526f"
+    },
+    {
+      "path": "projects/notable-finance/__next._index.txt",
+      "sha256": "225a967e1eb7473e720bfc864f0482ceb70a506308c04e03dba4accd0969440a"
+    },
+    {
+      "path": "projects/notable-finance/__next._tree.txt",
+      "sha256": "c756846018b1258366d78a396e65a92dfc26e72bb7202fac2bdbbc96cb9d4254"
+    },
+    {
+      "path": "projects/notable-finance/__next.projects.$d$slug.__PAGE__.txt",
+      "sha256": "972bf4d78956ef7c506153736aa27996452733871ea03d5def0b8bbd19ed7082"
+    },
+    {
+      "path": "projects/notable-finance/index.html",
+      "sha256": "4fc1c59b56823acd12ef9845181571b93b97ea6c1acc07366f9fde01b3700b42"
+    },
+    {
+      "path": "projects/notable-finance/index.txt",
+      "sha256": "08bc6e1c5d2f1cc0d7e3e324dd78031ce775fea3b1f96e8cb97309dd0de6526f"
+    },
+    {
+      "path": "projects/sophia-scriptura/__next._full.txt",
+      "sha256": "b739d426992deefe2b28ce1b3b19eb8f1135444b33ac517295448cfe4f628324"
+    },
+    {
+      "path": "projects/sophia-scriptura/__next._index.txt",
+      "sha256": "225a967e1eb7473e720bfc864f0482ceb70a506308c04e03dba4accd0969440a"
+    },
+    {
+      "path": "projects/sophia-scriptura/__next._tree.txt",
+      "sha256": "6117b5fe2a4e570d332443fbfd2ad459415dcb93381cf8a9ebf424fd3fb70281"
+    },
+    {
+      "path": "projects/sophia-scriptura/__next.projects.$d$slug.__PAGE__.txt",
+      "sha256": "224f5f8ae0d67d9b4c5b190683a37e51139ebbca0bd60a94d9d3619bd8b86ef1"
+    },
+    {
+      "path": "projects/sophia-scriptura/index.html",
+      "sha256": "97866115c6fbe9ecc43253183fddf29777f9c2e8f0feb99678cd4cc7d9d1bd1f"
+    },
+    {
+      "path": "projects/sophia-scriptura/index.txt",
+      "sha256": "b739d426992deefe2b28ce1b3b19eb8f1135444b33ac517295448cfe4f628324"
+    },
+    {
+      "path": "projects/syncstock/__next._full.txt",
+      "sha256": "0dd485a544d42db4e19188a8fd8e0449f25428146a57ad4d71aac2a915fe833a"
+    },
+    {
+      "path": "projects/syncstock/__next._index.txt",
+      "sha256": "225a967e1eb7473e720bfc864f0482ceb70a506308c04e03dba4accd0969440a"
+    },
+    {
+      "path": "projects/syncstock/__next._tree.txt",
+      "sha256": "303614663a2d7e95b679429650acea300671ca81c96d3efa5252b5a836211867"
+    },
+    {
+      "path": "projects/syncstock/__next.projects.$d$slug.__PAGE__.txt",
+      "sha256": "bafcf219466c13e9d7f2f50ba8f99d9ff494cf33c6884eaf5b8ea814f238e5e3"
+    },
+    {
+      "path": "projects/syncstock/index.html",
+      "sha256": "42a4c8cdb6f173a0bc32a28d022c0dbc3d082a8e7620895c7ddd012583542f1c"
+    },
+    {
+      "path": "projects/syncstock/index.txt",
+      "sha256": "0dd485a544d42db4e19188a8fd8e0449f25428146a57ad4d71aac2a915fe833a"
+    },
+    {
+      "path": "robots.txt",
+      "sha256": "585a7a8172130422a1ef5399079fdcfc00647d32461af961fb7aab918f419e54"
+    },
+    {
+      "path": "sitemap.xml",
+      "sha256": "12565b18bfd0a43d5778a15b50d6675ed273bdc47dfc9f5565e99889f5536641"
+    },
+    {
+      "path": ".nojekyll",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  ]
+}
